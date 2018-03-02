@@ -4,6 +4,7 @@ def speak_to_grandma(phrase)
   end
   elsif phrase == "Hi Nana, how are you?" || "Hi!"
     return "HUH?! SPEAK UP, SONNY!"
+  end  
 end
 
 # Write a speak_to_grandma method.
